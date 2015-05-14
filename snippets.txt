@@ -1,0 +1,5 @@
+echo '<div class="container">
+            <span class="panel">';
+                var_dump($_POST);
+            echo "</span>";
+        echo "</div><hr/>";
